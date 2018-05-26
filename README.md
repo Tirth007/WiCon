@@ -1,0 +1,2 @@
+# WiCon
+WICON is used in restaurants and hotels for the food ordering by customers from their mobile or any device. It is specifically developed for the rich user experience. Because in today scenario customers have to wait like for taking order, getting the menu etc. So as digitalization is becoming more powerful it is recommended to automate the process by developing the relevant software as the world is moving from manual working to information and technology era where computerization becomes important in all walks of life. 
